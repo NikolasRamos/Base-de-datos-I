@@ -4,7 +4,7 @@ Este repositorio contiene los trabajos y ejercicios realizados por el **Grupo 8*
 
 ## Integrantes
 
-- Olea, Ramiro
-- Planes, Juan Ignacio
-- Ramos, Nikolas
-- Vignales, Federica
+- Olea Ramiro
+- Planes Juan Ignacio
+- Ramos Nikolas
+- Vignales Federica
